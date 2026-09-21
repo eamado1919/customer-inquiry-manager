@@ -1,0 +1,19 @@
+[
+    {
+        "inquiry_id": "INC-1001",
+        "customer": "Jordan Lee",
+        "issue": "Cannot log into account",
+        "priority": "high",
+        "status": "Open",
+        "created_at": "09/20/2026 11:50:08 AM"
+    },
+    {
+        "inquiry_id": "INC-1002",
+        "customer": "Taylor Smith",
+        "issue": "Questions about an invoice",
+        "priority": "high",
+        "status": "Closed",
+        "created_at": "09/20/2026 11:50:08 AM",
+        "updated_at": "09/21/2026 12:21:48 PM"
+    }
+]
